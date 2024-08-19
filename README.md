@@ -1,7 +1,3 @@
-참조 링크 
-
-https://osc-korea.atlassian.net/wiki/spaces/consulting/pages/1147470144/Rag+llm+on+k8s
-
 
 # Rag 기반의 llm on k8s
 
